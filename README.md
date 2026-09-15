@@ -58,7 +58,7 @@ A la dinàmica `Kanban cakes`, veureu com aquesta metodologia ajuda a organitzar
 ## Tasques a realitzar
 
 - Tasca 1  Dinàmica Kanban cake
-- Tasca 2: [Kanban grupal](./AA1-Kanban-grupal.md) (RA3)
+- Tasca 2: [Kanban grupal](./AA1-Kanban_grupal.md) (RA3)
 - Tasca 3: Presentació del projecte (RA5)
 
 ## Com s'avaluarà el projecte?
