@@ -19,12 +19,11 @@ RA3. Planifica l'execució de les activitats proposades a la solució plantejada
 
 RA5. Transmet informació amb claredat, de manera ordenada i estructurada.
 
-
 ## Tasques a realitzar
 
 - Tasca 1  Dinàmica Kanban cake
-- Tasca 2: Kanban grupal
-- Tasca 3: Presentació del projecte
+- Tasca 2: Kanban grupal (RA3)
+- Tasca 3: Presentació del projecte (RA5)
 
 ## Com s'avaluarà el projecte?
 
