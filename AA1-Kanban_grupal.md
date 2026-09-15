@@ -272,7 +272,7 @@ Les captures han de demostrar que el Planner ha evolucionat. No és suficient en
 
 Heu d'entregar una presentació feta amb **Canva o una eina similar**.
 
-La presentació ha d'explicar el projecte **diapositiva a diapositiva** i ha d'incloure captures de pantalla de l'evolució del Planner.
+La presentació ha d'explicar el projecte **diapositiva a diapositiva** i ha d'incloure captures de pantalla de l'evolució del Planner i incloure l'enllaç al tauler de Microsoft Planner.
 
 ### Estructura obligatòria de la presentació
 
@@ -300,10 +300,10 @@ La presentació ha d'explicar el projecte **diapositiva a diapositiva** i ha d'i
 
 ## 10. Entregables finals
 
-Haureu d'entregar:
+Haureu de lliurar al Moodle les tasques següents:
 
 | Entregable | Obligatori? | Observacions |
-|---|---:|---|
+|---         |---          |---           |
 | Presentació final feta amb Canva o similar | Sí | Ha d'explicar el procés diapositiva a diapositiva |
 | Captures de l'evolució del Planner | Sí | Han d'estar dins de la presentació |
 | Enllaç al Microsoft Planner | Sí | Ha d'aparèixer dins de la presentació |
