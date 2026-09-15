@@ -6,7 +6,7 @@
 - [Resultats d'aprenentatge](#resultats-daprenentatge)
 - [Introducció a la planificació](#introducció-a-la-planificació)
 - [Tasques a realitzar](#tasques-a-realitzar)
-- [Com s'avaluarà el projecte?](#com-savaluarà-el-projecte
+- [Com s'avaluarà el projecte?](#com-savaluarà-el-projecte)
 - [Materials i recursos](#materials-i-recursos)
 - [Temporització](#temporització)
 
