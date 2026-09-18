@@ -45,6 +45,8 @@ Per solucionar-ho, van desenvolupar un mètode de planificació per mapejar tote
 
 En el dia a dia de la informàtica utilitzem eines adaptades als canvis constants, com la metodologia àgil **Kanban**. Nascuda al sistema de producció de Toyota i adaptada al desenvolupament de programari i sistemes, Kanban es basa a gestionar el treball de manera molt visual i en temps real.
 
+És una metodologia que s'ha fet molt popular en el desenvolupament de programari i en la gestió de projectes, ja que permet als equips veure clarament l'estat de les tasques i ajustar-se a les necessitats canviants del projecte i que s'adapta molt bé al concepte d'agilitat, ja que permet als equips respondre ràpidament a canvis i prioritzar tasques de manera flexible.
+
 - **Tauler visual:** El treball es representa en columnes bàsiques com *Pendent (To Do)*, *En procés (In Progress)* i *Finalitzat (Done)*. Cada tasca és una targeta que es mou d'esquerra a dreta.
 
 - **Límit de treball en curs (WIP):** S'imposa un límit màxim de tasques que poden estar a la columna "En procés" al mateix temps. Això evita la multitasca ineficient i els colls d'ampolla.
