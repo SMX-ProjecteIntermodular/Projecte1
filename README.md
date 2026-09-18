@@ -75,6 +75,8 @@ $$
 
 ## Materials i recursos
 
+- La guia Kanban [castellà (online)](https://kanbanguides.org/es-es/the-kanban-guide/2025.5) i [català (PDF)](https://kanbanguides.org/the-kanban-guide/2020.12/pdf/kanban-guide.v2020.12.ca.pdf)
+
 - [Introducció a Microsoft 365. Recordatori accés i algunes eines útils](https://docs.google.com/presentation/d/1yVXpuDotpB1vI3OaqKtNaFiys4uYFt-M/edit?usp=sharing&ouid=104728425662496836733&rtpof=true&sd=true)
 
 - [Introducció Metodologia Kanban](https://gamma.app/docs/Introduccio-a-la-Metodologia-KANBAN-1ds0a6pkkl5vldo)
