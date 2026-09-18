@@ -70,7 +70,7 @@ La presentació final del projecte es valora de forma individual per cada membre
 La nota final del projecte serà la següent mitjana ponderada de les dues notes anteriors:
 
 $$
-Q_{Projecte} = 0,40 \cdot \text{Kanban} + 0,20 \cdot \text{Pr. grupal} + 0,20 \cdot \text{Pr. individual}
+Q_{Projecte} = 0,40 \cdot \text{Kanban} + 0,30 \cdot \text{Pr. grupal} + 0,30 \cdot \text{Pr. individual}
 $$
 
 ## Materials i recursos
